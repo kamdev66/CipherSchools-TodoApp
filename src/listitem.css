@@ -1,0 +1,11 @@
+.item{
+    text-align: center;
+}
+button{
+    margin: 3px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: rgb(243, 68, 5);
+}
